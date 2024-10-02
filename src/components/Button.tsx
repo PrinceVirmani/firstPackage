@@ -23,4 +23,4 @@ const Button = ({ children, onClick }: PropsType) => {
   );
 };
 
-export default { Button };
+export { Button };
